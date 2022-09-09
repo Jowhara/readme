@@ -32,7 +32,7 @@ $ npm start
 
 
 ### Contact Information
-**Name   	     | Email
+Name   	     | Email
 ----------   | ----------
 Sammy Jowhara | sammy.j@gmail.com
-Yun Long     | yun.l@gmail.com**
+Yun Long     | yun.l@gmail.com
