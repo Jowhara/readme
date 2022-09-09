@@ -32,10 +32,7 @@ $ git push -u origin main
 ```
 
 
-![Alt Text](<iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>)
-
-
-
+![Git Gif](https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b761173117678be8b19778e9f59c9ca6820b60c178d2b&rid=giphy.gif&ct=g)
 
 
 ### Contact Information
