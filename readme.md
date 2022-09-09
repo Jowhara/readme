@@ -20,11 +20,15 @@ Along the journey of completing these sprints comes knowledge about:
 
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-*To read this file locally, install it using npm:*
+*Creating a local repository (with readme) that connects to the global one:*
 ```bash
-$ cd../lorem
-$ npm install
-$ npm start
+$ touch README.md
+$ git init lorem
+$ git add README.md
+$ git commit -m "message"
+$ git branch -M main
+$ git remote add origin
+$ git push -u origin main
 ```
 
 
