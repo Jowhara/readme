@@ -18,13 +18,21 @@ Along the journey of completing these sprints comes knowledge about:
 
 ---
 
-Markdown             |  Git          |  Bash
-:-------------------------:|:-------------------------:|:-------------------------:
-![Markdown Logo](https://markdown-here.com/img/icon256.png)   |  ![Git Logo](https://chonable.com/wp-content/uploads/2017/04/git-logo.jpg)|  ![Bash Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg)
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+*To read this file locally, install it using npm:*
+```bash
+$ cd../lorem
+$ npm install
+$ npm start
+```
 
 
 
-Name   	     | Email
+
+
+### Contact Information
+**Name   	     | Email
 ----------   | ----------
 Sammy Jowhara | sammy.j@gmail.com
-Yun Long     | yun.l@gmail.com
+Yun Long     | yun.l@gmail.com**
