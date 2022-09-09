@@ -18,7 +18,11 @@ Along the journey of completing these sprints comes knowledge about:
 
 ---
 
-![Markdown Logo](https://markdown-here.com/img/icon256.png) ![Git Logo](https://chonable.com/wp-content/uploads/2017/04/git-logo.jpg)
+Markdown             |  Git          |  Bash
+:-------------------------:|:-------------------------:|:-------------------------:
+![Markdown Logo](https://markdown-here.com/img/icon256.png)   |  ![Git Logo](https://chonable.com/wp-content/uploads/2017/04/git-logo.jpg)|  ![Bash Logo](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg)
+
+
 
 Name   	     | Email
 ----------   | ----------
